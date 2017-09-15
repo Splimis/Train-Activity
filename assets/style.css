@@ -1,0 +1,19 @@
+body {
+	}
+
+#head {
+	background-color: brown;
+	text-align: center;
+	color: white;
+	height: 30%;
+	border-radius: 4px;
+}
+
+#top{
+	margin-top: 2%;
+}
+
+.form-group{
+	width: 95%;
+	margin-left: 20px;
+}
